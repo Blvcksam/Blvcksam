@@ -1,7 +1,7 @@
 
-### Hi there 👋🏽
+### Hi there 👋🏽 I am
 <div class="header">
-    <h1>Samuel Ekwere</h1>
+    <h1>Samuel </h1>
     <p>Cybersecurity | Devops | Data Engineering Enthusiast</p>
     <div class="nav">
         <a href="#about">About</a>
